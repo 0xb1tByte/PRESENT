@@ -4,9 +4,8 @@ The goal of this Project is to implement, test, and benchmark (optimized) crypto
 ## License:
 GNU General Public License v3.0 
 
-## Usage:
-
-## References:
 
 ### Note: 
-Studying Notes/Code/Resources ..etc will be uploaded after submitting the project to the instructor to avoid cheating
+- **present_reference** : a reference implementation of PRESENT 
+- **present_bitsSlice** : an optimized implementation of PRESENT using [Bitslicing](https://en.wikipedia.org/wiki/Bit_slicing) concept  
+
